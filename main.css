@@ -5,3 +5,7 @@
   color: #101647ff; 
   text-align: center;
 }
+.titlebox {
+  border-style: solid;
+  border-colour: #101647ff;
+}
