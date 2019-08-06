@@ -1,3 +1,7 @@
-h1 {
+* {
+  font family: helvetica:
+}
+  h1 {
   color: #101647ff; 
+  text-align: center;
 }
