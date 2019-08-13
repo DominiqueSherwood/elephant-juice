@@ -6,7 +6,7 @@
   text-align: center;
 }
 #titlebox {
-  border-style: solid;
+  border-style: none;
   border-colour: #101647ff;
   background-color: beige;
 }
